@@ -1,0 +1,80 @@
+.elegantwriting-add-css h1 {
+	margin:0;
+	text-align:center;
+}
+
+.elegantwriting-add-css .three-col {
+	text-align:center;
+}
+
+.elegantwriting-add-css .widgets-holder-wrap {
+	padding:20px 20px 10px 20px;
+}
+.elegantwriting-add-css h2 {
+	margin-bottom:0px;
+	margin-top:20px;
+}
+span.checkmark img,
+span.cross img {
+	width:auto;
+	max-width:100%;
+}
+.elegantwriting-add-css h3 {
+	margin-top:0;
+}
+
+.elegantwriting-button-container {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.elegantwriting-add-css th {
+    padding: 15px;
+    font-size: 16px;
+}
+.elegantwriting-add-css tr:nth-of-type(even) {
+    background: #f7f7f7;
+}
+.elegantwriting-add-css td:first-of-type {
+    padding-top:10px;
+}
+.elegantwriting-add-css td {
+    padding: 5px 15px;
+}
+.elegantwriting-add-css td:nth-of-type(2),
+.elegantwriting-add-css td:nth-of-type(3), 
+.elegantwriting-add-css th:nth-of-type(2),
+.elegantwriting-add-css th:nth-of-type(3) {
+	text-align:center;
+}
+.elegantwriting-add-css span.cross {
+	font-size: 20px;
+	color: #ca2424;
+}
+
+span.checkmark {
+	color: #24b751;
+	font-size: 17px;
+}
+a.button.button-primary,
+a.button.button-primary:hover,
+a.button.button-primary:active,
+a.button.button-primary:focus {
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 12px 20px;
+	color: #fff;
+	font-weight: 400;
+	text-align: center;
+	width: auto;
+	display: inline-block;
+	margin-top: 25px;
+	font-size: 14px;
+	text-decoration: none;
+	border-radius: 4px;
+	background-color: #00BC87;
+	height: auto;
+	box-shadow: 0px 0px 0px;
+	text-shadow: 0px 0px 0px;
+	letter-spacing: 0.7px;
+	border: 0px solid #fff;
+}

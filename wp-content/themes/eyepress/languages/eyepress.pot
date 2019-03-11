@@ -1,0 +1,851 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: eyepress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-29 08:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. 1: list of categories.
+#: template-parts/content-search.php:35 template-parts/content.php:42
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/customizer.php:298 template-parts/home-section/eyepress-side-menu.php:7
+msgid "+80 123 456 802"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62 template-parts/content-search.php:9
+#: template-parts/content.php:9
+msgid ", "
+msgstr ""
+
+#: inc/customizer.php:326 template-parts/home-section/eyepress-side-menu.php:9
+msgid "20 September 1980"
+msgstr ""
+
+#: inc/customizer.php:340 template-parts/home-section/eyepress-side-menu.php:10
+msgid "28 Years"
+msgstr ""
+
+#: 404.php:34 404.php:37 404.php:39
+msgid "404 Error"
+msgstr ""
+
+#: inc/customizer.php:799
+msgid "404 page custom image use?"
+msgstr ""
+
+#: inc/customizer.php:771
+msgid "404 page description"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "404 page heading"
+msgstr ""
+
+#: inc/customizer.php:815
+msgid "404 page image"
+msgstr ""
+
+#: header.php:34
+msgid "A"
+msgstr ""
+
+#: inc/bootstrap-navwalker.php:407
+msgid "Add a menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:265
+msgid ""
+"After you import this demo, you will have to setup home page. Go settings -> "
+"reading -> Your homepage displays and check (A static page (select below)) "
+"then set homepage home and posts page blog. Now click menu and set menu"
+msgstr ""
+
+#: inc/customizer.php:347 template-parts/home-section/eyepress-side-menu.php:44
+msgid "Age"
+msgstr ""
+
+#: inc/customizer-helper.php:27
+msgid "All Right Reserved @aRegal Theme 2018"
+msgstr ""
+
+#: footer.php:11 inc/customizer-helper.php:242 inc/customizer.php:837
+msgid "All Right Reserved @Regal Theme 2018"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "ARTHUR BROOKS"
+msgstr ""
+
+#: inc/customizer-helper.php:235 inc/customizer.php:268
+#: template-parts/home-section/eyepress-home-banner.php:9
+msgid "Arthur Brooks"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Author Disignation"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Author Name"
+msgstr ""
+
+#: inc/customizer.php:368 template-parts/home-section/eyepress-side-menu.php:12
+msgid "Available"
+msgstr ""
+
+#: 404.php:50
+msgid "back to homepage"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Banner or Slider view type"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Blog and other pages header style"
+msgstr ""
+
+#: 404.php:22 archive.php:17 index.php:28 index.php:35 eyepress-home.php:18
+#: page.php:21 search.php:17 single-eyepress-portfolio.php:15 single.php:15
+msgid "blog banner"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid "Blog home description"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Blog home title"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Blog home title and description"
+msgstr ""
+
+#: functions.php:50
+msgid "Blog menu"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Blog settings and page settings section"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Blog style"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Button one text"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Button one url"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Button two text"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Button two url"
+msgstr ""
+
+#: inc/customizer.php:864
+msgid "Center Footer"
+msgstr ""
+
+#: single-eyepress-portfolio.php:76
+msgid "client"
+msgstr ""
+
+#: template-parts/home-section/eyepress-menu-template.php:24
+msgid "Close"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin.php:83
+msgid "Contact Form 7"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:35
+msgid "D"
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Dark theme"
+msgstr ""
+
+#: inc/customizer.php:333 template-parts/home-section/eyepress-side-menu.php:40
+msgid "Date of birth"
+msgstr ""
+
+#: inc/customizer.php:863
+msgid "Default Footer"
+msgstr ""
+
+#: inc/customizer.php:283 template-parts/home-section/eyepress-side-menu.php:6
+msgid "Developer & UX Designer"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid "Display 404 page search field?"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Display header banner"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Display post author"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "Display post category"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Display post date"
+msgstr ""
+
+#: inc/customizer.php:705
+msgid "Display post tag"
+msgstr ""
+
+#: inc/customizer.php:734
+msgid "Display related post in single post"
+msgstr ""
+
+#: inc/customizer.php:720
+msgid "Display social share icons"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/home-section/eyepress-side-menu.php:36
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Enter author disignation here."
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Enter author name here."
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Enter header welcome text here."
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Enter your designation."
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Enter your name."
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Enter your short description here ."
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Facebook url"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid ""
+"First header image will be first slider image. This image will be second "
+"slider image. Image size is 1900*950"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Fixd with sticky header"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Fixed header"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Fixed height"
+msgstr ""
+
+#: inc/customizer.php:876
+msgid "Footer Facebook url"
+msgstr ""
+
+#: inc/customizer.php:916
+msgid "Footer Instagram url"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "Footer Linkedin url"
+msgstr ""
+
+#: inc/customizer.php:929
+msgid "Footer Pinterest url"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "Footer style"
+msgstr ""
+
+#: inc/customizer.php:842
+msgid "Footer text"
+msgstr ""
+
+#: inc/customizer.php:889
+msgid "Footer Twitter url"
+msgstr ""
+
+#: template-parts/home-section/eyepress-side-menu.php:52
+msgid "Freelance Work"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Freelance work"
+msgstr ""
+
+#: inc/customizer.php:629 inc/customizer.php:651
+msgid "Full width"
+msgstr ""
+
+#: header.php:38
+msgid "G"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "General settings"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Grid type"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Grid view"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Header banner"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Header image type"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Header slider"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Hide side menu"
+msgstr ""
+
+#: inc/customizer.php:122 template-parts/home-section/eyepress-home-banner.php:14
+msgid "Hire Me"
+msgstr ""
+
+#: inc/customizer.php:843
+msgid ""
+"Html tag support the field. You can see full HTML result after save text."
+msgstr ""
+
+#. URI of the theme
+msgid "http://regaltheme.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/regaltheme"
+msgstr ""
+
+#: header.php:36
+msgid "I"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Instagram url"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: header.php:32
+msgid "L"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer.php:630 inc/customizer.php:652
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Light theme"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Linkedin url"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69 template-parts/content.php:10
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Name of the theme
+msgid "eyepress"
+msgstr ""
+
+#: inc/customizer.php:745
+msgid "eyepress 404 page options section"
+msgstr ""
+
+#: functions.php:261
+msgid "eyepress demo import"
+msgstr ""
+
+#: inc/customizer.php:828
+msgid "eyepress Footer options section"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "eyepress genetal settings section"
+msgstr ""
+
+#. Name of the template
+msgid "eyepress Home"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"eyepress is Fully Responsive Personal Portfolio WordPress theme with awesome "
+"features."
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "eyepress side menu profile"
+msgstr ""
+
+#: inc/tgm-plugin.php:63
+msgid "eyepress Toolkit"
+msgstr ""
+
+#: template-parts/home-section/eyepress-menu-template.php:23
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Mesonry"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "My Work"
+msgstr ""
+
+#: template-parts/home-section/eyepress-home-banner.php:12
+msgid "my work"
+msgstr ""
+
+#: header.php:37
+msgid "N"
+msgstr ""
+
+#: inc/customizer.php:275 template-parts/home-section/eyepress-side-menu.php:5
+#: template-parts/home-section/eyepress-side-menu.php:24
+msgid "Name"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "Normal vew"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: header.php:33
+msgid "O"
+msgstr ""
+
+#: inc/tgm-plugin.php:88
+msgid "One click demo import"
+msgstr ""
+
+#: functions.php:49
+msgid "One page menu"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/tgm-plugin.php:78
+msgid "Page Builder: KingComposer"
+msgstr ""
+
+#: 404.php:9 inc/customizer.php:749
+msgid "page not founded."
+msgstr ""
+
+#: inc/customizer.php:645
+msgid "Page sidebar position"
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content.php:63
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/home-section/eyepress-side-menu.php:32
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Pinterest url"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Poly angle view"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Publish on %s"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Post sidebar position"
+msgstr ""
+
+#: inc/customizer.php:706
+msgid "Post tag only show in single post."
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Preloader active"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Preloader hide"
+msgstr ""
+
+#: inc/customizer.php:260 template-parts/home-section/eyepress-side-menu.php:18
+msgid "Profile image"
+msgstr ""
+
+#: single-eyepress-portfolio.php:84
+msgid "projects deadline"
+msgstr ""
+
+#: single-eyepress-portfolio.php:100
+msgid "projects live link"
+msgstr ""
+
+#: single-eyepress-portfolio.php:68
+msgid "projects type"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "READ FORM BLOG"
+msgstr ""
+
+#: index.php:16
+msgid "Read form blog"
+msgstr ""
+
+#: template-parts/content-grid.php:29 template-parts/content-search.php:41
+#: template-parts/content.php:68
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Author of the theme
+msgid "Regal Theme"
+msgstr ""
+
+#: inc/customizer.php:361 template-parts/home-section/eyepress-side-menu.php:48
+msgid "Residence"
+msgstr ""
+
+#: inc/customizer.php:631 inc/customizer.php:653
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "scroll header"
+msgstr ""
+
+#. %s: search query.
+#: search.php:28 search.php:51
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:646
+msgid ""
+"Select page sidebar position. Custom template will not be effected by this "
+"option."
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "Select post sidebar position."
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Select site footer style."
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Short description"
+msgstr ""
+
+#: inc/customizer.php:540
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Show in all page"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Show only home page"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Side menu visibility"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:743
+msgid "Site 404 page"
+msgstr ""
+
+#: inc/customizer.php:826
+msgid "Site Footer settings"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Site preloader"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Slider image three"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Slider image two"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Social share icons only show single post."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Standard view"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. 1: list of tag.
+#: template-parts/content.php:78
+#, php-format
+msgid "Tags:  %1$s"
+msgstr ""
+
+#: index.php:17 inc/customizer.php:562
+msgid ""
+"The namics of how users interact with interactive elements within a <br> "
+"user interface flow chart based on container proportion."
+msgstr ""
+
+#: inc/customizer.php:80 template-parts/home-section/eyepress-home-banner.php:11
+msgid ""
+"The namics of how users interact with interactive elements within a user <br>"
+" interface flow chart based on container proportion."
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Theme style"
+msgstr ""
+
+#: 404.php:10 inc/customizer.php:764
+msgid "This page you are looking for could not be founded."
+msgstr ""
+
+#: inc/customizer.php:290 template-parts/home-section/eyepress-side-menu.php:28
+msgid "Title"
+msgstr ""
+
+#: single-eyepress-portfolio.php:92
+msgid "tools use"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Twitter url"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Uplad 404 page image. Image size should be small."
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Upload your profile image. image size should be 240px*300px"
+msgstr ""
+
+#: inc/customizer.php:354 template-parts/home-section/eyepress-side-menu.php:11
+msgid "USA"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid ""
+"Warning: if you don't use preloader then some home page item show bad before "
+"load full page."
+msgstr ""
+
+#: inc/customizer.php:66 template-parts/home-section/eyepress-home-banner.php:10
+msgid "WEB DEVELOPER & UX DESIGNER"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Welcome text"
+msgstr ""
+
+#: inc/customizer-helper.php:227 inc/customizer.php:37
+msgid "WELCOME! I'M"
+msgstr ""
+
+#: template-parts/home-section/eyepress-home-banner.php:8
+msgid "welcome! I'm"
+msgstr ""
+
+#: inc/customizer.php:772
+msgid "Write 404 page description"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Write 404 page headeing text"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "You can add or edit side menu profile by this options."
+msgstr ""
+
+#: inc/customizer.php:800
+msgid "You can add your own image for 404 page."
+msgstr ""
+
+#: inc/customizer.php:239
+msgid ""
+"You can set side profile menu only homepage or you also set the side profile "
+"for all page."
+msgstr ""
+
+#: inc/customizer.php:211
+msgid ""
+"You can upload third slider image by this upload field. You may skip the "
+"field if you only two.Image size is 1900*950"
+msgstr ""

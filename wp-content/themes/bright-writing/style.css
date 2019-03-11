@@ -1,0 +1,174 @@
+/* 
+Theme Name: Bright Writing
+Theme URI: https://superbthemes.com/elegant-writing/elegantwriting-info/
+Description: Bright Writing is a clean and creative blog theme for writers and bloggers. The theme is responsive, it is fully compatible with mobile phones, desktop computers and tablets such as iPads. The WordPress theme has a full width multi purpose design which is minimal and simple. You willThe readability is optimized through great typography. You can use it as a newspaper or magazine where you post your news about your personal life, food, entertainment, gaming or anything else. Page builders work fine with the theme, and since it's full width by default you can create a landing page or one page easily to visualize your business, agency or consultant company. Since we have made it useful for companies too we have of course spend a lot of time to optimize the SEO (search engine optimization) and load time, so when your vistiors loads your site, they will have a great experience. There is also lots of space for ads such as AdSense and other ads programs, through a lot of widget opportunities.
+Author: ThemeEverest
+Author URI: http://superbthemes.com/
+Template: elegantwriting
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bright-writing
+Tags: flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, news, entertainment
+*/
+
+
+
+body * {
+	box-shadow:0px 0px 0px #fff !important;
+}
+
+nav#site-navigation {
+	margin-bottom:0;
+}
+
+.top-widget-wrapper {
+	margin-top:35px;
+}
+
+.top-widgets a {
+	text-decoration:none;
+}
+
+div#content { 
+	padding-top: 40px; 
+}
+
+.blog-feed-entry-thumb img { 
+	width:100%; 
+}
+
+.site-branding {
+	background: rgba(255, 255, 255, 0.7);
+}
+
+.site-title {
+	color:#292929;
+}
+
+p.site-description {
+	color:#444;
+}
+
+p.site-description:before {
+	background: #8e8e8e;
+}
+
+#site-navigation .menu li, #site-navigation .menu .sub-menu, #site-navigation .menu .children, nav#site-navigation {
+	background:#fff;
+}
+
+#site-navigation .menu li a, #site-navigation .menu li a:hover, #site-navigation .menu li a:active, #site-navigation .menu > li.menu-item-has-children > a:after, #site-navigation ul.menu ul a, #site-navigation .menu ul ul a, #site-navigation ul.menu ul a:hover, #site-navigation .menu ul ul a:hover, div#top-search a, div#top-search a:hover { 
+	color:#333;
+	font-weight:600;
+}	
+
+.m_menu_icon {
+	background-color: #333; 
+}
+
+.readmore-btn {
+	border-radius:3px;
+	padding: 13px 30px;
+}
+#top-social a, #top-social a:hover, #top-social a:active, #top-social a:focus, #top-social a:visited{ 
+	color: #c69c6d; 
+}  
+
+.blog-feed-meta .sticky-text {
+	display: inline-block;
+	color: #c69c6d;
+}
+
+.blog-feed-post-wrapper p {
+	color: #636363;
+	font-weight: 400;
+	font-size:16px;
+}
+
+.blog-feed-category a {
+	color: #c69c6d;
+}
+
+.entry-cate a {
+	display: inline-block;
+	color: #c69c6d;
+}
+
+.blog-feed-meta {
+	margin-bottom:15px;
+}
+
+.comment-form input.submit {
+	border: 2px solid #c69c6d;
+	margin: auto;
+	color: #c69c6d;
+}
+
+.readmore-btn {
+	border: 2px solid #c69c6d;
+	margin: auto;
+	color: #c69c6d;
+}
+
+.blog-feed-category a {
+	color: #c69c6d;
+}
+.entry-cate a {
+	display: inline-block;
+	color: #c69c6d;
+}
+.comment-form input.submit {
+	border: 2px solid #c69c6d;
+	margin: auto;
+	color: #c69c6d;
+}
+
+.readmore-btn {
+	border: 2px solid #c69c6d;	
+	color: #c69c6d;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+.blog-feed-post-wrapper p,
+h1,
+h1.site-title,
+.widget .tagcloud a,
+h2,
+.entry-tags a,
+h3,
+li.comment .reply a,
+.nav-previous, 
+.comment-author .fn
+.nav-next,
+h4,
+h5,
+h6,
+h6,
+#nav-wrapper .menu li a,
+.feat-more,
+.cat,
+.post-share .post-share-comments,
+.about-title,
+#footer-social a,
+.more-link,
+.post-comments span.reply a,
+.widget .tagcloud a,
+.pagination a ,
+.post-tags a,
+.slicknav_nav a {
+	font-family: 'Source Sans Pro';
+}
+
+.top-widget-single {
+	font-size:15px;
+}
